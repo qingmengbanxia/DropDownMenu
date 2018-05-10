@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#ffcccccc</color>
+    <color name="check_bg">#ffbbbbbb</color>
+    <color name="mask_color">#88888888</color>
+    <color name="white">#ffffffff</color>
+    <color name="drop_drop_selected">#ff890c85</color>
+    <color name="drop_drop_unselected">#ff111111</color>
+</resources>
